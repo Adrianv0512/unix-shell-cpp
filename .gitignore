@@ -1,0 +1,6 @@
+# build artifacts
+minishell
+*.o
+# OS/editor
+.DS_Store
+.vscode/
