@@ -14,15 +14,6 @@ A minimal Unix shell written in C++ supporting built-in commands (`cd`, `exit`) 
 
 ---
 
-## Build & Run
-
-```bash
-Build
-make
-
-Run
-./minishell
-
 ## Planned Features
 
 I/O redirection (<, >, >>)
@@ -32,4 +23,18 @@ Pipes (|)
 Background jobs (&)
 
 Command history
+
+---
+
+## Build & Run
+
+```bash
+Build
+make
+
+Run
+./minishell
+
+
+
 
